@@ -1,0 +1,11 @@
+{
+    "roles": [
+        "admin",
+        "user"
+    ],
+    "location": {
+        "state": "TX",
+        "city": "Barcelona"
+    },
+    "name": "john"
+}
