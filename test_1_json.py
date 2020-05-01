@@ -6,7 +6,7 @@ user = data['user']
 print(user['name'])
 for role in user['roles']:
     print(role)
-# this is a test number 1
+# this is a test number 2
 user['location']['city'] = 'Barcelona' # change the diccionary
 with open('json_example-edited.json', 'w') as file:
     json.dump(user, file, indent=4)  # load the new value into json format
