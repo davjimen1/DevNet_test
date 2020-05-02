@@ -1,0 +1,25 @@
+{"People":
+    [
+        {
+            "Id": "1",
+            "FirstName": "Benjamin",
+            "LastName": "Finkel",
+            "Email": "ben.finkel@email.com",
+            "Activate": True
+        },
+        {
+            "Id": "2",
+            "FirstName": "Jane",
+            "LastName": "Doel",
+            "Email": "jane.doe@email.net",
+            "Activate": False
+        },
+        {
+            "Id": "3",
+            "FirstName": "Pati",
+            "LastName": "Smith",
+            "Email": "pati.smith@email.org",
+            "Activate": True
+        }
+    ]
+}
